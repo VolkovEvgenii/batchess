@@ -1,4 +1,4 @@
-package ru.volkov.integration.batchess.split;
+package ru.volkov.integration.batchess.jobflow.split;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.StepContribution;

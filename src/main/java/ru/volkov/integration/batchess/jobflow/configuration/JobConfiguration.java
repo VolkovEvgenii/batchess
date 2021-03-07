@@ -1,4 +1,4 @@
-package ru.volkov.integration.batchess.configuration;
+package ru.volkov.integration.batchess.jobflow.configuration;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

@@ -1,4 +1,4 @@
-package ru.volkov.integration.batchess.decider;
+package ru.volkov.integration.batchess.jobflow.decider;
 
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecution;
@@ -36,8 +36,8 @@ public class DeciderConfiguration {
                 .from(decider()).on("ODD").to(deciderOddStep())
                 .from(decider()).on("EVEN").to(deciderEvenStep())
                 .from(deciderOddStep()).on("*").to(decider())
-/*                .from(decider()).on("ODD").to(deciderOddStep())
-                .from(decider()).on("EVEN").to(deciderEvenStep())*/
+                .from(decider()).on("ODD").to(deciderOddStep())
+                .from(decider()).on("EVEN").to(deciderEvenStep())
                 .end()
                 .build();
     }
