@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+  <customer>
+    <id>1</id>
+    <name>Boris – 1</name>
+    <cardBskNum>676434</cardBskNum>
+  </customer>
+  <customer>
+    <id>2</id>
+    <name>Boris – 2</name>
+    <cardBskNum>536389</cardBskNum>
+  </customer>
+  <customer>
+    <id>3</id>
+    <name>Boris – 3</name>
+    <cardBskNum>129623</cardBskNum>
+  </customer>
+  <customer>
+    <id>4</id>
+    <name>Boris – 4</name>
+    <cardBskNum>549333</cardBskNum>
+  </customer>
+  <customer>
+    <id>5</id>
+    <name>Boris – 5</name>
+    <cardBskNum>370275</cardBskNum>
+  </customer>
+  <customer>
+    <id>6</id>
+    <name>Boris – 6</name>
+    <cardBskNum>805101</cardBskNum>
+  </customer>
+  <customer>
+    <id>7</id>
+    <name>Boris – 7</name>
+    <cardBskNum>399653</cardBskNum>
+  </customer>
+  <customer>
+    <id>8</id>
+    <name>Boris – 8</name>
+    <cardBskNum>295010</cardBskNum>
+  </customer>
+  <customer>
+    <id>9</id>
+    <name>Boris – 9</name>
+    <cardBskNum>112537</cardBskNum>
+  </customer>
+  <customer>
+    <id>10</id>
+    <name>Boris – 10</name>
+    <cardBskNum>191466</cardBskNum>
+  </customer>
+  <customer>
+    <id>11</id>
+    <name>Boris – 11</name>
+    <cardBskNum>724423</cardBskNum>
+  </customer>
+  <customer>
+    <id>12</id>
+    <name>Boris – 12</name>
+    <cardBskNum>895991</cardBskNum>
+  </customer>
+  <customer>
+    <id>13</id>
+    <name>Boris – 13</name>
+    <cardBskNum>918158</cardBskNum>
+  </customer>
+  <customer>
+    <id>14</id>
+    <name>Boris – 14</name>
+    <cardBskNum>385591</cardBskNum>
+  </customer>
+  <customer>
+    <id>15</id>
+    <name>Boris – 15</name>
+    <cardBskNum>824491</cardBskNum>
+  </customer>
+  <customer>
+    <id>16</id>
+    <name>Boris – 16</name>
+    <cardBskNum>903849</cardBskNum>
+  </customer>
+  <customer>
+    <id>17</id>
+    <name>Boris – 17</name>
+    <cardBskNum>737580</cardBskNum>
+  </customer>
+  <customer>
+    <id>18</id>
+    <name>Boris – 18</name>
+    <cardBskNum>808091</cardBskNum>
+  </customer>
+  <customer>
+    <id>19</id>
+    <name>Boris – 19</name>
+    <cardBskNum>304974</cardBskNum>
+  </customer>
+  <customer>
+    <id>20</id>
+    <name>Boris – 20</name>
+    <cardBskNum>638542</cardBskNum>
+  </customer>
+  <customer>
+    <id>21</id>
+    <name>Boris – 21</name>
+    <cardBskNum>193924</cardBskNum>
+  </customer>
+  <customer>
+    <id>22</id>
+    <name>Boris – 22</name>
+    <cardBskNum>521689</cardBskNum>
+  </customer>
+  <customer>
+    <id>23</id>
+    <name>Boris – 23</name>
+    <cardBskNum>353050</cardBskNum>
+  </customer>
+  <customer>
+    <id>24</id>
+    <name>Boris – 24</name>
+    <cardBskNum>997567</cardBskNum>
+  </customer>
+  <customer>
+    <id>25</id>
+    <name>Boris – 25</name>
+    <cardBskNum>596891</cardBskNum>
+  </customer>
+  <customer>
+    <id>26</id>
+    <name>Boris – 26</name>
+    <cardBskNum>936445</cardBskNum>
+  </customer>
+  <customer>
+    <id>27</id>
+    <name>Boris – 27</name>
+    <cardBskNum>24038</cardBskNum>
+  </customer>
+  <customer>
+    <id>28</id>
+    <name>Boris – 28</name>
+    <cardBskNum>572086</cardBskNum>
+  </customer>
+  <customer>
+    <id>29</id>
+    <name>Boris – 29</name>
+    <cardBskNum>784888</cardBskNum>
+  </customer>
+  <customer>
+    <id>30</id>
+    <name>Boris – 30</name>
+    <cardBskNum>107531</cardBskNum>
+  </customer>
+  <customer>
+    <id>31</id>
+    <name>Boris – 31</name>
+    <cardBskNum>322107</cardBskNum>
+  </customer>
+  <customer>
+    <id>32</id>
+    <name>Boris – 32</name>
+    <cardBskNum>761166</cardBskNum>
+  </customer>
+  <customer>
+    <id>33</id>
+    <name>Boris – 33</name>
+    <cardBskNum>519865</cardBskNum>
+  </customer>
+  <customer>
+    <id>34</id>
+    <name>Boris – 34</name>
+    <cardBskNum>624805</cardBskNum>
+  </customer>
+  <customer>
+    <id>35</id>
+    <name>Boris – 35</name>
+    <cardBskNum>847473</cardBskNum>
+  </customer>
+  <customer>
+    <id>36</id>
+    <name>Boris – 36</name>
+    <cardBskNum>922666</cardBskNum>
+  </customer>
+  <customer>
+    <id>37</id>
+    <name>Boris – 37</name>
+    <cardBskNum>339460</cardBskNum>
+  </customer>
+  <customer>
+    <id>38</id>
+    <name>Boris – 38</name>
+    <cardBskNum>77428</cardBskNum>
+  </customer>
+  <customer>
+    <id>39</id>
+    <name>Boris – 39</name>
+    <cardBskNum>42513</cardBskNum>
+  </customer>
+  <customer>
+    <id>40</id>
+    <name>Boris – 40</name>
+    <cardBskNum>134276</cardBskNum>
+  </customer>
+  <customer>
+    <id>41</id>
+    <name>Boris – 41</name>
+    <cardBskNum>847068</cardBskNum>
+  </customer>
+  <customer>
+    <id>42</id>
+    <name>Boris – 42</name>
+    <cardBskNum>372440</cardBskNum>
+  </customer>
+  <customer>
+    <id>43</id>
+    <name>Boris – 43</name>
+    <cardBskNum>280248</cardBskNum>
+  </customer>
+  <customer>
+    <id>44</id>
+    <name>Boris – 44</name>
+    <cardBskNum>454770</cardBskNum>
+  </customer>
+  <customer>
+    <id>45</id>
+    <name>Boris – 45</name>
+    <cardBskNum>516985</cardBskNum>
+  </customer>
+  <customer>
+    <id>46</id>
+    <name>Boris – 46</name>
+    <cardBskNum>381477</cardBskNum>
+  </customer>
+  <customer>
+    <id>47</id>
+    <name>Boris – 47</name>
+    <cardBskNum>300090</cardBskNum>
+  </customer>
+  <customer>
+    <id>48</id>
+    <name>Boris – 48</name>
+    <cardBskNum>54773</cardBskNum>
+  </customer>
+  <customer>
+    <id>49</id>
+    <name>Boris – 49</name>
+    <cardBskNum>917211</cardBskNum>
+  </customer>
+  <customer>
+    <id>50</id>
+    <name>Boris – 50</name>
+    <cardBskNum>989466</cardBskNum>
+  </customer>
+  <customer>
+    <id>51</id>
+    <name>Boris – 51</name>
+    <cardBskNum>115592</cardBskNum>
+  </customer>
+  <customer>
+    <id>52</id>
+    <name>Boris – 52</name>
+    <cardBskNum>47831</cardBskNum>
+  </customer>
+  <customer>
+    <id>53</id>
+    <name>Boris – 53</name>
+    <cardBskNum>406530</cardBskNum>
+  </customer>
+  <customer>
+    <id>54</id>
+    <name>Boris – 54</name>
+    <cardBskNum>383554</cardBskNum>
+  </customer>
+  <customer>
+    <id>55</id>
+    <name>Boris – 55</name>
+    <cardBskNum>892411</cardBskNum>
+  </customer>
+  <customer>
+    <id>56</id>
+    <name>Boris – 56</name>
+    <cardBskNum>214506</cardBskNum>
+  </customer>
+  <customer>
+    <id>57</id>
+    <name>Boris – 57</name>
+    <cardBskNum>753311</cardBskNum>
+  </customer>
+  <customer>
+    <id>58</id>
+    <name>Boris – 58</name>
+    <cardBskNum>527824</cardBskNum>
+  </customer>
+  <customer>
+    <id>59</id>
+    <name>Boris – 59</name>
+    <cardBskNum>553615</cardBskNum>
+  </customer>
+  <customer>
+    <id>60</id>
+    <name>Boris – 60</name>
+    <cardBskNum>555459</cardBskNum>
+  </customer>
+  <customer>
+    <id>61</id>
+    <name>Boris – 61</name>
+    <cardBskNum>549954</cardBskNum>
+  </customer>
+  <customer>
+    <id>62</id>
+    <name>Boris – 62</name>
+    <cardBskNum>472561</cardBskNum>
+  </customer>
+  <customer>
+    <id>63</id>
+    <name>Boris – 63</name>
+    <cardBskNum>605622</cardBskNum>
+  </customer>
+  <customer>
+    <id>64</id>
+    <name>Boris – 64</name>
+    <cardBskNum>720814</cardBskNum>
+  </customer>
+  <customer>
+    <id>65</id>
+    <name>Boris – 65</name>
+    <cardBskNum>181274</cardBskNum>
+  </customer>
+  <customer>
+    <id>66</id>
+    <name>Boris – 66</name>
+    <cardBskNum>466641</cardBskNum>
+  </customer>
+  <customer>
+    <id>67</id>
+    <name>Boris – 67</name>
+    <cardBskNum>661547</cardBskNum>
+  </customer>
+  <customer>
+    <id>68</id>
+    <name>Boris – 68</name>
+    <cardBskNum>956990</cardBskNum>
+  </customer>
+  <customer>
+    <id>69</id>
+    <name>Boris – 69</name>
+    <cardBskNum>864574</cardBskNum>
+  </customer>
+  <customer>
+    <id>70</id>
+    <name>Boris – 70</name>
+    <cardBskNum>722605</cardBskNum>
+  </customer>
+  <customer>
+    <id>71</id>
+    <name>Boris – 71</name>
+    <cardBskNum>972712</cardBskNum>
+  </customer>
+  <customer>
+    <id>72</id>
+    <name>Boris – 72</name>
+    <cardBskNum>331946</cardBskNum>
+  </customer>
+  <customer>
+    <id>73</id>
+    <name>Boris – 73</name>
+    <cardBskNum>601362</cardBskNum>
+  </customer>
+  <customer>
+    <id>74</id>
+    <name>Boris – 74</name>
+    <cardBskNum>731748</cardBskNum>
+  </customer>
+  <customer>
+    <id>75</id>
+    <name>Boris – 75</name>
+    <cardBskNum>298434</cardBskNum>
+  </customer>
+  <customer>
+    <id>76</id>
+    <name>Boris – 76</name>
+    <cardBskNum>166994</cardBskNum>
+  </customer>
+  <customer>
+    <id>77</id>
+    <name>Boris – 77</name>
+    <cardBskNum>320714</cardBskNum>
+  </customer>
+  <customer>
+    <id>78</id>
+    <name>Boris – 78</name>
+    <cardBskNum>651420</cardBskNum>
+  </customer>
+  <customer>
+    <id>79</id>
+    <name>Boris – 79</name>
+    <cardBskNum>122863</cardBskNum>
+  </customer>
+  <customer>
+    <id>80</id>
+    <name>Boris – 80</name>
+    <cardBskNum>521092</cardBskNum>
+  </customer>
+  <customer>
+    <id>81</id>
+    <name>Boris – 81</name>
+    <cardBskNum>861330</cardBskNum>
+  </customer>
+  <customer>
+    <id>82</id>
+    <name>Boris – 82</name>
+    <cardBskNum>359388</cardBskNum>
+  </customer>
+  <customer>
+    <id>83</id>
+    <name>Boris – 83</name>
+    <cardBskNum>938058</cardBskNum>
+  </customer>
+  <customer>
+    <id>84</id>
+    <name>Boris – 84</name>
+    <cardBskNum>470168</cardBskNum>
+  </customer>
+  <customer>
+    <id>85</id>
+    <name>Boris – 85</name>
+    <cardBskNum>207069</cardBskNum>
+  </customer>
+  <customer>
+    <id>86</id>
+    <name>Boris – 86</name>
+    <cardBskNum>615160</cardBskNum>
+  </customer>
+  <customer>
+    <id>87</id>
+    <name>Boris – 87</name>
+    <cardBskNum>333691</cardBskNum>
+  </customer>
+  <customer>
+    <id>88</id>
+    <name>Boris – 88</name>
+    <cardBskNum>335203</cardBskNum>
+  </customer>
+  <customer>
+    <id>89</id>
+    <name>Boris – 89</name>
+    <cardBskNum>405867</cardBskNum>
+  </customer>
+  <customer>
+    <id>90</id>
+    <name>Boris – 90</name>
+    <cardBskNum>318538</cardBskNum>
+  </customer>
+  <customer>
+    <id>91</id>
+    <name>Boris – 91</name>
+    <cardBskNum>843709</cardBskNum>
+  </customer>
+  <customer>
+    <id>92</id>
+    <name>Boris – 92</name>
+    <cardBskNum>554618</cardBskNum>
+  </customer>
+  <customer>
+    <id>93</id>
+    <name>Boris – 93</name>
+    <cardBskNum>6311</cardBskNum>
+  </customer>
+  <customer>
+    <id>94</id>
+    <name>Boris – 94</name>
+    <cardBskNum>518246</cardBskNum>
+  </customer>
+  <customer>
+    <id>95</id>
+    <name>Boris – 95</name>
+    <cardBskNum>869088</cardBskNum>
+  </customer>
+  <customer>
+    <id>96</id>
+    <name>Boris – 96</name>
+    <cardBskNum>538060</cardBskNum>
+  </customer>
+  <customer>
+    <id>97</id>
+    <name>Boris – 97</name>
+    <cardBskNum>451900</cardBskNum>
+  </customer>
+  <customer>
+    <id>98</id>
+    <name>Boris – 98</name>
+    <cardBskNum>316548</cardBskNum>
+  </customer>
+  <customer>
+    <id>99</id>
+    <name>Boris – 99</name>
+    <cardBskNum>276535</cardBskNum>
+  </customer>
+  <customer>
+    <id>100</id>
+    <name>Boris – 100</name>
+    <cardBskNum>37314</cardBskNum>
+  </customer>
+</customers>
