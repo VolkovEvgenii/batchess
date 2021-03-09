@@ -16,3 +16,10 @@ create table test.students(
     constraint student_pk primary key (id),
     constraint group_fk foreign key (group_id) references test.groups(id)
 );
+
+create table test.customers(
+    id serial not null,
+    name varchar not null,
+    cardBskNum integer not null,
+    constraint customer_pk primary key (id)
+)
