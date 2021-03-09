@@ -34,7 +34,7 @@ public class FromDbJobConfiguration {
         this.dataSource = dataSource;
     }
 
-/*    @Bean
+    @Bean
     public JdbcCursorItemReader<Student> cursorItemReader(){
         String sql = "" +
                 "select " +
@@ -49,9 +49,9 @@ public class FromDbJobConfiguration {
         reader.setRowMapper(new StudentRowMapper());
 
         return reader;
-    }*/
+    }
 
-    @Bean
+/*    @Bean
     public JdbcPagingItemReader<Student> jdbcPagingItemReader(){
         JdbcPagingItemReader<Student> reader = new JdbcPagingItemReader<>();
 
@@ -60,19 +60,17 @@ public class FromDbJobConfiguration {
         reader.setRowMapper(new StudentRowMapper());
 
         PostgresPagingQueryProvider queryProvider = new PostgresPagingQueryProvider();
-        queryProvider.setSelectClause("select " +
-                "    s.\"name\" as \"studentName\", " +
-                "    g.\"name\" as \"groupName\"");
-        queryProvider.setFromClause("from test.students s inner join test.\"groups\" g on s.group_id = g.id ");
+        queryProvider.setSelectClause("s.name as student_name, g.name as group_name");
+        queryProvider.setFromClause("test.students as s inner join test.groups as g on s.group_id = g.id ");
         Map<String, Order> sortKeys = new HashMap<>(1);
 
-        sortKeys.put("studentName", Order.ASCENDING);
+        sortKeys.put("s.name", Order.ASCENDING);
 
         queryProvider.setSortKeys(sortKeys);
         reader.setQueryProvider(queryProvider);
 
         return reader;
-    }
+    }*/
 
     @Bean
     public ItemWriter<Student> itemWriter(){
@@ -87,7 +85,7 @@ public class FromDbJobConfiguration {
     public Step fromDbStep1(){
         return stepBuilderFactory.get("fromDbStep1")
                 .<Student, Student>chunk(10)
-                .reader(jdbcPagingItemReader())
+                .reader(cursorItemReader())
                 .writer(itemWriter())
                 .build();
     }
